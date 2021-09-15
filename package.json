@@ -6,6 +6,7 @@
     "node": "10.16.3"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
     "@truffle/hdwallet-provider": "1.1.0",
     "apexcharts": "^3.18.0",
     "babel-polyfill": "6.26.0",
@@ -35,7 +36,8 @@
     "truffle": "5.1.45",
     "truffle-flattener": "1.5.0",
     "truffle-hdwallet-provider-privkey": "0.3.0",
-    "web3": "1.2.6"
+    "web3": "1.2.6",
+    "web3-utils": "^1.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
